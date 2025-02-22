@@ -6,7 +6,6 @@
 properties() { '
 kernel.string=
 do.devicecheck=1
-do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=angelica
@@ -14,6 +13,7 @@ device.name2=dandelion
 device.name3=angelican
 device.name4=angelicain
 device.name5=cattail
+device.name6=blossom
 supported.versions=
 '; } # end properties
 
